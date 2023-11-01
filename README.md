@@ -11,3 +11,8 @@ Lastly we create 5 different models; first modifying hyperparameters (epochs and
 Afterwards we evaluate the models based on precesion, accuracy, recall and F1-score. 
 
 From our analysis it seems like the modifed layer-structure models perform better, having higher accuracy and F1-scores. 
+
+
+--------------
+Appendix:
+In the appendix we've attached an attempt at creating a Batch Gradient Decent structure without succes.

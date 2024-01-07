@@ -10,9 +10,4 @@ After this we shortly discuss the different setup options in regard to the layer
 Lastly we create 5 different models; first modifying hyperparameters (epochs and learning rate) and later on moving on to modifying the layer-structure and activations functions of the Neural network.
 Afterwards we evaluate the models based on precesion, accuracy, recall and F1-score. 
 
-From our analysis it seems like the modifed layer-structure models perform better, having higher accuracy and F1-scores. 
-
-
---------------
-Appendix:
-In the appendix we've attached an attempt at creating a Batch Gradient Decent structure without succes.
+From our analysis it seems like the 2nd and 4th model performs the best.
